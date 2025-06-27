@@ -5,11 +5,11 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 
 ## 🚀 About Me
 
-- 🔐 I'm currently working on CyberSecurity projects.
+- 🔐 I'm currently working on AI Integrated IOT projects.
 - 🎓 I'm currently pursuing B.Tech in Computer Science and Data Science.
 - 🌱 I'm currently improving my skills and learning new technologies.
 - 👬 I'm looking to collaborate on open source projects.
-- 💬 Ask me about anything related to CyberSecurity Concepts.
+- 💬 Ask me about anything related to software development, IOT and embedded systems.
 - 📬 How to reach me: rahul44355@gmail.com 
 - ✨ Fun fact: 🏴‍☠️"Ethically hacking my way through life"  
 
