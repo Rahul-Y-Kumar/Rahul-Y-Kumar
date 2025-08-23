@@ -25,6 +25,17 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 ### Hardware / IoT Platforms
 ![IOT](https://skillicons.dev/icons?i=arduino,raspberrypi,)
 
+## Achievements
+
+<div align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12837148" target="_blank">
+    <img src="./assets/trophy_gold-removebg-perview.png" alt="Google Cloud Badge" width="60" height="60"/>
+  </a>
+  <br/>
+  <sub><b><span style="color:gold;">Networking Fundamentals</span></b></sub>
+</div>
+
+
 - [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12837148)
 - [Monitoring in Google Cloud](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12834848)
 - [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12890351)
