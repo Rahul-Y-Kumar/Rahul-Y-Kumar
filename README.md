@@ -27,18 +27,18 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 
 <p align="center">
   <!-- Trophies Row -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-Y-Kumar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
   <!-- Stats + Languages Side by Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Y-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Y-Kumar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Y-Kumar&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 ## 🔗 Connect With Me
