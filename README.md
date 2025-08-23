@@ -32,17 +32,49 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
     <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
   </a>
   <br/>
-  <sub><font color="gold">Cloud Digital Leader</font></sub>
   <sub><b><span style="color:gold;">Networking Fundamentals</span></b></sub>
 </div>
+&nbsp;&nbsp;&nbsp;
 
+ <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12834848" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  </a>
+  <br/>
+  <sub><b><span style="color:gold;">Monitoring</span></b></sub>
+</div>
+&nbsp;&nbsp;&nbsp;
 
-- [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12837148)
-- [Monitoring in Google Cloud](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12834848)
-- [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12890351)
-- [Developing GenAI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12898179)
-- [Cloud Speech API: Machine Learning & AI](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12797021)
-- [App Engine: Application Modernization](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12795793)
+ <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12890351" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  </a>
+  <br/>
+  <sub><b><span style="color:gold;">Prompt Design </span></b></sub>
+</div>
+&nbsp;&nbsp;&nbsp;
+
+ <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12898179" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  </a>
+  <br/>
+  <sub><b><span style="color:gold;">GenAI Apps</span></b></sub>
+</div>
+&nbsp;&nbsp;&nbsp;
+
+ <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12797021" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  </a>
+  <br/>
+  <sub><b><span style="color:gold;">Cloud Speech API</span></b></sub>
+</div>
+&nbsp;&nbsp;&nbsp;
+
+ <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12795793" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  </a>
+  <br/>
+  <sub><b><span style="color:gold;">App Engine</span></b></sub>
+</div>
+
 
 ## 📈 GitHub Stats
 
