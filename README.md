@@ -29,9 +29,10 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 
 <div align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12837148" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" height="80" style="border-radius: 30%;"/>
+    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
   </a>
   <br/>
+  <sub><font color="gold">Cloud Digital Leader</font></sub>
   <sub><b><span style="color:gold;">Networking Fundamentals</span></b></sub>
 </div>
 
