@@ -12,10 +12,19 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 - 💬 Ask me about anything related to software development, IOT and embedded systems.
 - 📬 How to reach me: rahul44355@gmail.com  
 
-## 🛠️ My Skills
+## Tech Stack
 
-- <B> Programming Languages:</B> C, C++, Python, Java
-- <B> Databases:</B> Cortex, Google Chronicle, MySQL
+### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts)
+### Frameworks
+![Frameworks](https://skillicons.dev/icons?i=react,django,nodejs,express)
+### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=vscode,figma,vercel,git,github,godot,matlab,pycharm)
+### Hardware / IoT Platforms
+![IOT](https://skillicons.dev/icons?i=arduino,raspberrypi,)
+
 - [Networking Fundamentals on Google Cloud](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12837148)
 - [Monitoring in Google Cloud](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12834848)
 - [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12890351)
@@ -24,10 +33,6 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 - [App Engine: Application Modernization](https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12795793)
 
 ## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Y-Kumar&theme=juicyfresh&no-frame=true&row=1&margin-w=8" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Y-Kumar&show_icons=true&theme=github_dark" height="160" />
@@ -40,22 +45,13 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-y-kumar-3770b732a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/RahulKumar44355" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:rahul44355@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/rahul_y_796" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-
+ [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rahul_y_796/)
+ [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahul-y-kumar-3770b732a/)
+ [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/rahuly0112)
+ [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rahul44355@gmail.com)
+ [![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/RahulKumar44355)
+ 
+---
 
 
 
