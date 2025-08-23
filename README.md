@@ -25,9 +25,9 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-Y-Kumar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Y-Kumar&theme=juicyfresh&no-frame=true&row=1&margin-w=8" />
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Y-Kumar&show_icons=true&theme=github_dark" height="160" />
