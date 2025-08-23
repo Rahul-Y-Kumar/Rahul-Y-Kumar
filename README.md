@@ -28,52 +28,50 @@ I'm a passionate Student & developer who loves working on CyberSecurity, AI and 
 ## Achievements
 
 <div align="center">
+
   <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12837148" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+    <img src="assets/trophy_gold.png" alt="Networking Fundamentals" width="80" style="border-radius:70%;"/>
+    <br/>
+    <sub><b><span style="color:gold;">Networking Fundamentals</span></b></sub>
   </a>
-  <br/>
-  <sub><b><span style="color:gold;">Networking Fundamentals</span></b></sub>
-</div>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
- <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12834848" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12834848" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Monitoring" width="80" style="border-radius:70%;"/>
+    <br/>
+    <sub><b><span style="color:gold;">Monitoring</span></b></sub>
   </a>
-  <br/>
-  <sub><b><span style="color:gold;">Monitoring</span></b></sub>
-</div>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
- <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12890351" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12890351" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Prompt Design" width="80" style="border-radius:70%;"/>
+    <br/>
+    <sub><b><span style="color:gold;">Prompt Design</span></b></sub>
   </a>
-  <br/>
-  <sub><b><span style="color:gold;">Prompt Design </span></b></sub>
-</div>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
- <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12898179" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12898179" target="_blank">
+    <img src="assets/trophy_gold.png" alt="GenAI Apps" width="80" style="border-radius:70%;"/>
+    <br/>
+    <sub><b><span style="color:gold;">GenAI Apps</span></b></sub>
   </a>
-  <br/>
-  <sub><b><span style="color:gold;">GenAI Apps</span></b></sub>
-</div>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
- <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12797021" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12797021" target="_blank">
+    <img src="assets/trophy_gold.png" alt="Cloud Speech API" width="80" style="border-radius:70%;"/>
+    <br/>
+    <sub><b><span style="color:gold;">Cloud Speech API</span></b></sub>
   </a>
-  <br/>
-  <sub><b><span style="color:gold;">Cloud Speech API</span></b></sub>
-</div>
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
- <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12795793" target="_blank">
-    <img src="assets/trophy_gold.png" alt="Google Cloud Badge" width="80" style="border-radius: 70%;"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/b923aaf2-a277-42d5-8def-02a2be7719c4/badges/12795793" target="_blank">
+    <img src="assets/trophy_gold.png" alt="App Engine" width="80" style="border-radius:70%;"/>
+    <br/>
+    <sub><b><span style="color:gold;">App Engine</span></b></sub>
   </a>
-  <br/>
-  <sub><b><span style="color:gold;">App Engine</span></b></sub>
+
 </div>
+
 
 
 ## 📈 GitHub Stats
